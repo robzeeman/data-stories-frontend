@@ -1,0 +1,23 @@
+version: '2'
+
+
+services:
+  dsapp:
+    build: 
+      context: ./
+      dockerfile: Dockerfile
+    container_name: ds-app
+    restart: unless-stopped
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.dsapp.entrypoints=http"
+      - "traefik.http.routers.dsapp.rule=Host(`datastories.sd.di.huc.knaw.nl`)"
+    volumes:
+      - /home/robz/:/home
+    networks:
+      - traefik-public
+      
+
+networks:
+  traefik-public:
+    external: true

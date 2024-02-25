@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.58430116.css",
+    "main.js": "/static/js/main.986b49c1.js",
+    "static/js/787.74d7d594.chunk.js": "/static/js/787.74d7d594.chunk.js",
+    "static/media/logo_clariah.png": "/static/media/logo_clariah.95496b33b6a942971de1.png",
+    "static/media/icon-delete.svg": "/static/media/icon-delete.73c6352a31645f4c17d47926bd97483b.svg",
+    "static/media/icon-arrow-up.svg": "/static/media/icon-arrow-up.ea32b2229b913dca1dbc47c8beaa76e1.svg",
+    "static/media/icon-arrow-down.svg": "/static/media/icon-arrow-down.d6217f5f86d10c941f24ed9d16642f44.svg",
+    "index.html": "/index.html",
+    "static/media/icon-+.svg": "/static/media/icon-+.77e424dfc4329b0fadaead1fde671766.svg",
+    "static/media/up-arrow-svgrepo-com.svg": "/static/media/up-arrow-svgrepo-com.83efa2a8a07b8824b8ee3d339c6deb87.svg",
+    "static/media/icon-edit.svg": "/static/media/icon-edit.07d674452d22ac129f374000c8e0c40d.svg",
+    "static/media/down-arrow-svgrepo-com.svg": "/static/media/down-arrow-svgrepo-com.8b7e9685b79ff0b40c81f6b741a53c07.svg",
+    "main.58430116.css.map": "/static/css/main.58430116.css.map",
+    "main.986b49c1.js.map": "/static/js/main.986b49c1.js.map",
+    "787.74d7d594.chunk.js.map": "/static/js/787.74d7d594.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58430116.css",
+    "static/js/main.986b49c1.js"
+  ]
+}
