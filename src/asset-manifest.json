@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.794fa78b.css",
-    "main.js": "/static/js/main.3d2a8271.js",
+    "main.js": "/static/js/main.9603ece3.js",
     "static/js/787.74d7d594.chunk.js": "/static/js/787.74d7d594.chunk.js",
     "static/media/chart.cjs": "/static/media/chart.e1e46e3e089138a9ecc2.cjs",
     "static/media/logo_clariah.png": "/static/media/logo_clariah.95496b33b6a942971de1.png",
@@ -12,11 +12,11 @@
     "static/media/icon-edit.svg": "/static/media/icon-edit.07d674452d22ac129f374000c8e0c40d.svg",
     "static/media/down-arrow-svgrepo-com.svg": "/static/media/down-arrow-svgrepo-com.8b7e9685b79ff0b40c81f6b741a53c07.svg",
     "main.794fa78b.css.map": "/static/css/main.794fa78b.css.map",
-    "main.3d2a8271.js.map": "/static/js/main.3d2a8271.js.map",
+    "main.9603ece3.js.map": "/static/js/main.9603ece3.js.map",
     "787.74d7d594.chunk.js.map": "/static/js/787.74d7d594.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.794fa78b.css",
-    "static/js/main.3d2a8271.js"
+    "static/js/main.9603ece3.js"
   ]
 }
